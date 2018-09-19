@@ -6,4 +6,4 @@ def array_with_two_elements
 array = ['Learn', 'Flatiron']
 end
 
-def 
+def first_element(array)
